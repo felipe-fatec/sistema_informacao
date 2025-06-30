@@ -1,0 +1,5 @@
+[Fri Jun 27 11:42:00.806343 2025] [mpm_winnt:notice] [pid 15328:tid 880] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Fri Jun 27 11:42:00.806343 2025] [mpm_winnt:notice] [pid 15328:tid 880] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Fri Jun 27 11:42:00.806343 2025] [core:notice] [pid 15328:tid 880] AH00094: Command line: 'C:\\Users\\felip\\Desktop\\Pizzaria_Corleone\\MySql_Vb.Net\\usbwebserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/felip/Desktop/Pizzaria_Corleone/MySql_Vb.Net/usbwebserver/apache2'
+[Fri Jun 27 11:42:00.812752 2025] [mpm_winnt:notice] [pid 15328:tid 880] AH00418: Parent: Created child process 31596
+[Fri Jun 27 11:42:01.791606 2025] [mpm_winnt:notice] [pid 31596:tid 844] AH00354: Child: Starting 64 worker threads.
